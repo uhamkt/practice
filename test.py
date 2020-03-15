@@ -12,16 +12,11 @@ def print_ten():
         print(i)
 
 
-def multi(x, y):
-    return x * y
-
-
 def main():
     print("ok")
     sum = add(4, 5)
     print(sum)
     print_ten()
-    print("a")
 
 
 if __name__ == '__main__':
