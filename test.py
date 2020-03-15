@@ -12,6 +12,10 @@ def print_ten():
         print(i)
 
 
+def test(str):
+    print(str)
+
+
 def main():
     print("ok")
     sum = add(4, 5)
