@@ -17,6 +17,7 @@ def main():
     sum = add(4, 5)
     print(sum)
     print_ten()
+    print("a")
 
 
 if __name__ == '__main__':
