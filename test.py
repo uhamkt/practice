@@ -16,6 +16,10 @@ def multi(x, y):
     return x * y
 
 
+def quiet(a):
+    print("aaa")
+
+
 def main():
     print("ok")
 
