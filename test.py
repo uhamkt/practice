@@ -12,6 +12,8 @@ def main():
     a = [np.sqrt(d) for d in range(10)]
     print(a)
     mult(3, 4)
+    for i in range(10):
+        print(i)
 
 
 if __name__ == '__main__':
