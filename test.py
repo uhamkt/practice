@@ -19,6 +19,7 @@ def multi(x, y):
 def main():
     data = np.array([1, 2, 3, 4])
     print(data)
+    # test
 
 
 if __name__ == '__main__':
