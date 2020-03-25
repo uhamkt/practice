@@ -20,6 +20,7 @@ def main():
     data = np.array([1, 2, 3, 4])
     print(data)
     # test
+    print("take out")
 
 
 if __name__ == '__main__':
