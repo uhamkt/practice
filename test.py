@@ -18,10 +18,6 @@ def multi(x, y):
 
 def main():
     print("ok")
-    sum = add(4, 5)
-    print(sum)
-    print_ten()
-    print(multi(3, 4))
 
 
 if __name__ == '__main__':
