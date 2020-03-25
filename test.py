@@ -7,6 +7,10 @@ def add(a, b):
     return a + b
 
 
+def minus(a, b):
+    return a - b
+
+
 def main():
     print("ok")
     a = [np.sqrt(d) for d in range(10)]
