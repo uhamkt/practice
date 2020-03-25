@@ -6,6 +6,9 @@ import numpy as np
 def add(x, y):
     return x + y
 
+class Test():
+    def __init__(self, data):
+        self.data = data
 
 def print_ten():
     for i in range(10):
