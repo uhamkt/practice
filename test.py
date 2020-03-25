@@ -3,6 +3,14 @@
 import numpy as np
 
 
+def add(a, b):
+    return a + b
+
+
+def minus(a, b):
+    return a - b
+
+
 class Test():
     def __init__(self, data):
         self.data = data
