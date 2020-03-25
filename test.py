@@ -3,6 +3,14 @@
 import numpy as np
 
 
+class Test():
+    def __init__(self, data):
+        self.data = data
+
+    def print_data(self):
+        print(self.data)
+
+
 def mult(a, b):
     return a * b
 
