@@ -16,12 +16,9 @@ def multi(x, y):
     return x * y
 
 
-def quiet(a):
-    print("aaa")
-
-
 def main():
-    print("ok")
+    data = np.array([1, 2, 3, 4])
+    print(data)
 
 
 if __name__ == '__main__':
